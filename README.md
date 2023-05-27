@@ -1,5 +1,4 @@
-# Application : ASD BridgeAbility
-Explanatory Video : https://youtu.be/1aDZk1bGjag
+# ASD BridgeAbility
 
 
 Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder that affects communication, social interaction, and behavior. One of the common challenges faced by parents of children with ASD is establishing and maintaining a strong bond with their child. Children with ASD may have difficulties with social communication, emotional regulation, and sensory sensitivities, which can impact their ability to form and maintain close relationships with their parents. This can result in strained parent-child relationships, reduced emotional connection, and challenges in meeting the child's developmental, emotional, and behavioral needs. Strengthening the bond between child and parent is crucial to promote positive developmental outcomes and improve the well-being of both the child and the parent in the context of ASD.
